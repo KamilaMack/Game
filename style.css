@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(233, 193, 133, 0.214);
+    background-color:rgb(161, 138, 206);
   }
   
   .selections {
@@ -33,7 +33,7 @@ body {
   .result-score {
     margin-left: .1rem;
     font-size: .5rem;
-    color: #333;
+    color:rgb(113, 60, 22);
     font-size: 2rem;
   }
   
@@ -45,3 +45,4 @@ body {
     opacity: 1;
     font-size: 1.5rem;
   }
+  
